@@ -1,5 +1,15 @@
 # Typescript Destructure Plugin
 
+## Adoption
+
+This is Tony Gravagno. I'm not sure if I'll be able to do anything with this plugin. It seems valuable but hasn't been updated in 4 years.  
+Unfortunately it's broken in current VSCode. My near-term goal is to see if it can be simply patched with dependency updates in order to restore it. If not, I'll try to look deeper.
+
+The author hasn't been active in a long time. Given the situtation in Russia (his profile leads to a university in Moscow) it's sadly possible that he is no longer able to maintain software. So for now I'm adopting the project. If he comes back he is absolutely welcome to take anything developed here. If nothing happens here, we have neither gained nor lost any more than what we had.
+
+## Original Introduction
+
+
 This [TypeScript Language Service Plugin](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin) provides a set of source actions that simplify object destructuring as well as folding specific properties in rest operator. Also available as an [extension for VSCode](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin).
 
 *🚧 Warning: this package is now in alpha stage, so it may contain formatting bugs. Please file an issue if you encounter any strange behavior 💜 🚧*
